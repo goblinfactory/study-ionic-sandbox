@@ -8,7 +8,7 @@ Some of the code will be code I've written myself, and other code will most like
 
 `> npm install -g ionic cordova` 
 
-If this results in `Error: EACCES: permission denied, symlink '../lib/node_modules/cordova/bin/cordova'` then the fix might be 
+If this results in `Error: EACCES: permission denied, symlink '../lib/node_modules/cordova/bin/cordova'` then the fix is ***not*** to run as sudo, but rather might be as follows, to fix folder permissions by starting fresh; 
 ```
  mkdir ~/npm-global
  npm config set prefix ~/npm-global
