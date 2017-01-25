@@ -8,7 +8,9 @@ Some of the code will be code I've written myself, and other code will most like
 
 `> npm install -g ionic cordova` 
 
-- If this results in `Error: EACCES: permission denied, symlink '../lib/node_modules/cordova/bin/cordova'` then the fix is ***not*** to run as sudo, but rather might be as follows, to fix folder permissions by starting fresh; 
+### fixing node 'EACCES' error
+
+- If the node command (when installing node, or any other npm command) results in `Error: EACCES: permission denied, symlink '../lib/node_modules/cordova/bin/cordova'` then the fix is ***not*** to run as sudo, but rather might be as follows, to fix folder permissions by starting fresh; 
 - see https://docs.npmjs.com/getting-started/fixing-npm-permissions
 - fix
 
