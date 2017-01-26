@@ -34,7 +34,7 @@ Some of the code will be code I've written myself, and other code will most like
 1. `cd myapp`
 1. `ionic serve` : manually run and test it
 1. `ionic platform add android` : install android native support to your project
-1. `ionic build android` : compile the android resources and create a pkt file ( I think?)
+1. `ionic build android` : compile the android resources and create a apk file.
 1. `ionic emulate android` 
  1. test on a real emulator. 
  1. first build of the emulator will be slow, subsequent will be faster
