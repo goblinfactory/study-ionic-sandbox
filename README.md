@@ -51,10 +51,9 @@ Some of the code will be code I've written myself, and other code will most like
  1. http://stackoverflow.com/questions/16707137/how-to-find-and-turn-on-usb-debugging-mode-on-nexus-4
 1. `ionic run android` : test 
 
+***result***
 
+![very impressed with the quickstsart, genuinely get up and running](docs/2017-01-ionic-quickstart.png)
 
 #### pausing
 
-- stopping here, waiting for android SDK updates to finish, seems to be hanging during an unzip? Good place to take a break
-- https://app.pluralsight.com/player?course=ionic2-angular2-typescript-mobile-apps&author=steve-michelotti&name=ionic2-angular2-typescript-mobile-apps-m2&clip=9&mode=live
-- Hello World, 1m56.
