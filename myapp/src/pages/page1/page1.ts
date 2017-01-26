@@ -8,8 +8,16 @@ import { NavController } from 'ionic-angular';
 })
 export class Page1 {
 
+  greeting:string
+
   constructor(public navCtrl: NavController) {
     
+  }
+  
+
+
+  greet(name) {
+    this.greeting = `hello ${name}`
   }
 
 }
