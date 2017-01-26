@@ -26,3 +26,9 @@ Some of the code will be code I've written myself, and other code will most like
   - then re-run the install.
   - it's important to include the quotes above, otherwise it will not be set.
   - to check the npm path has been set correctly, run `npm config get prefix` (this should return the correct path.)
+
+#### pausing
+
+- stopping here, waiting for android SDK updates to finish, seems to be hanging during an unzip? Good place to take a break
+- https://app.pluralsight.com/player?course=ionic2-angular2-typescript-mobile-apps&author=steve-michelotti&name=ionic2-angular2-typescript-mobile-apps-m2&clip=9&mode=live
+- Hello World, 1m56.
