@@ -51,6 +51,18 @@ Some of the code will be code I've written myself, and other code will most like
  1. http://stackoverflow.com/questions/16707137/how-to-find-and-turn-on-usb-debugging-mode-on-nexus-4
 1. `ionic run android` : test 
 
+### even faster
+
+```
+  npm install -g ionic cordova 
+  ionic start myapp tabs --v2 --ts
+  cd myapp
+  ionic serve
+  ionic platform add android
+  ionic build android
+  ionic emulate android
+  ionic run android
+```
 ***result***
 
 ![very impressed with the quickstsart, genuinely get up and running](docs/2017-01-ionic-quickstart.png)
