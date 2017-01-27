@@ -71,6 +71,10 @@ Some of the code will be code I've written myself, and other code will most like
 
 #### Likes
 
+NB! These are just thoughts at the moment, and not yet proven with facts or even real observations beyond my own limited experience. They're ideas that I will try to get more clarity on over the coming weeks, and will discuss with collegues further.
+
+- my main like, is I get to keep all the skills I use for mobile development. i.e. I don't have to learn a propriatary language or api, .. the surface area is easily manageable.
+- team size realistically can be much smaller. Xamarin android development requires tester + xamarin android + xamarin IOS (or swift) + backend API developer. That's 4 people. Compared to Ionic where it's realistically possible to have a full stack ionic and angular developer do everything, and less overhead adapting to all the constant changes. Scaling up the team doesnt mean hiring different skills, you add more full stack devs, which means you derisk the project, instead increase the risk, and communicate and efficiency improves! (imho) of course YMMV. 
 - tbd, this is a long list.
 - speed, speed, speed. (er, of development, not app, cof cof! blush!)
 - I was up and running and way past where I was with Xamarin studio and Xamarin Forms in only a few hours.
