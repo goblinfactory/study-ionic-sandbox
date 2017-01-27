@@ -51,7 +51,7 @@ Some of the code will be code I've written myself, and other code will most like
  1. http://stackoverflow.com/questions/16707137/how-to-find-and-turn-on-usb-debugging-mode-on-nexus-4
 1. `ionic run android` : test 
 
-### 8 simple 1 line commands to gaurantee a super interesting dev meetup  ¯\_(ツ)_/¯
+### 8 simple 1 line commands to gaurantee a super interesting dev meetup ` ¯\_(ツ)_/¯ `
 
 ```
   npm install -g ionic cordova 
