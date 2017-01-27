@@ -72,7 +72,7 @@ Some of the code will be code I've written myself, and other code will most like
 #### Likes
 
 - tbd, this is a long list.
-- speed, speed, speed.
+- speed, speed, speed. (er, of development, not app, cof cof! blush!)
 - I was up and running and way past where I was with Xamarin studio and Xamarin Forms in only a few hours.
 - everything (touch wood) so far, `just works!`. In a wonderful way that stuff just so often did NOT work with Xamarin.
 - Even when things did not work, it was really easy to find a fix.
