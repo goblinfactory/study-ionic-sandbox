@@ -67,5 +67,31 @@ Some of the code will be code I've written myself, and other code will most like
 
 ![very impressed with the quickstsart, genuinely get up and running](docs/2017-01-ionic-quickstart.png)
 
+### Likes and dislikes
+
+#### Likes
+
+- tbd, this is a long list.
+- speed, speed, speed.
+- I was up and running and way past where I was with Xamarin studio and Xamarin Forms in only a few hours.
+- everything (touch wood) so far, `just works!`. In a wonderful way that stuff just so often did NOT work with Xamarin.
+- Even when things did not work, it was really easy to find a fix.
+- error messages so far have been out of this world awesome. (nb, need reference, see if I can remember specific examples?)
+- Typescript means I can slowly get into `Javascript the good parts`.
+- I love how Angular2 protects me from `CSS hell`. CSS does not bleed out from parent into child.
+- I have not got into testing yet, but I have a strong sense that this will all be a whole lot more automatable, and components and libs can be independantly unit tested at high speed.
+
+
+#### dislikes
+
+- this is a very short list, actually just 1 thing so far, ***load time!*** 
+ - Around 10 seconds for a vanilla out of the box scafolded app in debug mode (i.e. without `--prod` set. )
+ - here's some skinny on load times, ...scroll all the way to the bottom 
+ - https://forum.ionicframework.com/t/ionic-2-speed-up-boot-time/46372/135
+
 #### pausing
 
+https://app.pluralsight.com/player?course=ionic2-angular2-typescript-mobile-apps&author=steve-michelotti&name=ionic2-angular2-typescript-mobile-apps-m2&clip=6&mode=live
+ 
+ run apps with ionic view
+ 
