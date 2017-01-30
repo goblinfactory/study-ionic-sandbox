@@ -84,14 +84,35 @@ NB! These are just thoughts at the moment, and not yet proven with facts or even
 - Typescript means I can slowly get into `Javascript the good parts`.
 - I love how Angular2 protects me from `CSS hell`. CSS does not bleed out from parent into child.
 - I have not got into testing yet, but I have a strong sense that this will all be a whole lot more automatable, and components and libs can be independantly unit tested at high speed.
-
+- small likes (again, I guess this might be available in other frameworks, but hey, I like this stuff)
+ - automatic back button (that works propertly) in navigation
+  - (if you navigate to a child, the back button is enabled and dissapears when you're back in root or )
+- tight integration with angular2 allows for some nifty use of `Yo` 
+ - i.e. there's essentially three elements to any new page, assuming a 1-1 correlation between pages and features for the sake of this explanation
+ - the three pages are `xx.html` - `xx.scss` - `xx.ts` : Your html, styling and code.
+ - this lays the groundwork for consulting firms to build up libraries of re-usable patterns they can share with their teams to rapidly roll out fully functioning prototypes and in many cases feature rich production ready applications.
+ - groundwork for RAD development in mobile applications. (Something I thought was really long overdue.)
+- support for agile workflow processes 
+ - 1 line push to ionic view for customer review with `ionic upload` (poof! this is wonderfully productive, cut all the red tape bullshit.) Lets get stuff in customers hands for rapid feedback
+ - more to follow. (liking this)
 
 #### dislikes
 
-- this is a very short list, actually just 1 thing so far, ***load time!*** 
- - Around 10 seconds for a vanilla out of the box scafolded app in debug mode (i.e. without `--prod` set. )
- - here's some skinny on load times, ...scroll all the way to the bottom 
- - https://forum.ionicframework.com/t/ionic-2-speed-up-boot-time/46372/135
+I appreciate that many of my `dislikes` might simply be due to my personal context, or my lack of understanding, so I'll try to keep this updated as I talk to collegues and work through the material.
+
+- dislike that this is undermining my zealous support for [`Aurelia`](http://aurelia.io/) : will need to investigate further to see what alternatives exist in `less is more Arelia javascript land`! sob sob!
+- this is a very short list, , ***load time!***  and reliance on `apps.ionic.io` and few minor issues
+ - *Load Time*
+  - Around 10 seconds for a vanilla out of the box scafolded app in debug mode (i.e. without `--prod` set. )
+  - here's some skinny on load times, ...scroll all the way to the bottom 
+  - https://forum.ionicframework.com/t/ionic-2-speed-up-boot-time/46372/135
+ - reliance on apps.ionic.io to create the publishable app?
+  - is this scalable and profitable, will it survive
+  - will it be around in 1 or 2 years.
+  - what's the alternative to this? 
+  - what to do when the site is down? (it was down, is still down right now at the time of writing. Ok, only for a few minutes)
+   - Will need to consider how this impacts development processes and whether this could ultimately be brought inhouse somehow? (or if that's just defeating the whole purpose, then you might as well be using Xamarin or other frameworks and `bite the bullet` so to speak.)
+  
 
 #### pausing
 
