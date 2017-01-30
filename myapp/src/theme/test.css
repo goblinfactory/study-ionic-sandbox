@@ -1,0 +1,7 @@
+/* only here because VSCode plugs dont seem to be compatible with the version of scss and wont preview the colours */
+
+a.primary    { background-color:#17B57D }
+a.secondary { background-color:#226AB0 }
+a.danger   { background-color:#f53d3d }
+a.light     { background-color:#f4f4f4 }
+a.dark      { background-color:#222 }
