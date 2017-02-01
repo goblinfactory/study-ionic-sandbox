@@ -3,12 +3,16 @@ import { IonicApp, IonicModule, IonicErrorHandler } from 'ionic-angular';
 import { MyApp } from './app.component';
 import { Page1 } from '../pages/page1/page1';
 import { Page2 } from '../pages/page2/page2';
+import { MyTeamsPage } from '../pages/my-teams/my-teams.page';
+import { Tournaments } from '../pages/tournaments';
 
 @NgModule({
   declarations: [
     MyApp,
     Page1,
-    Page2
+    Page2,
+    MyTeamsPage,
+    Tournaments
   ],
   imports: [
     IonicModule.forRoot(MyApp)

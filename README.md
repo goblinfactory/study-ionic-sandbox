@@ -104,6 +104,7 @@ I appreciate that many of my `dislikes` might simply be due to my personal conte
 - this is a very short list, , ***load time!***  and reliance on `apps.ionic.io` and few minor issues
  - *Load Time*
   - Around 10 seconds for a vanilla out of the box scafolded app in debug mode (i.e. without `--prod` set. )
+  - I believe (I might be wrong) but, this is still faster than using Xamarin Forms for cross platform dev. Comparing to my Xamarin Forms hello world app. (also in debug) on my phone.
   - here's some skinny on load times, ...scroll all the way to the bottom 
   - https://forum.ionicframework.com/t/ionic-2-speed-up-boot-time/46372/135
  - reliance on apps.ionic.io to create the publishable app?
