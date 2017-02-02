@@ -1,7 +1,9 @@
 {
-  "name": "ionic-hello-world",
-  "author": "Ionic Framework",
-  "homepage": "http://ionicframework.com/",
+  "name": "my-hello-world",
+  "version": "0.0.1",
+  "description": "first version that runs everything, ready for the advanced sessions on navigation",
+  "author": "Alan hemmings",
+  "homepage": "https://github.com/goblinfactory/study-ionic-sandbox",
   "private": true,
   "scripts": {
     "clean": "ionic-app-scripts clean",
