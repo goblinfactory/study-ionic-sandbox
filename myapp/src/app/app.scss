@@ -14,3 +14,12 @@
 // To declare rules for a specific mode, create a child rule
 // for the .md, .ios, or .wp mode classes. The mode class is
 // automatically applied to the <body> element in the app.
+
+// Project Pages 
+// --------------------------------------------------
+ @import "./pages/game/game.page";
+ @import "./pages/team-detail/team-detail.page";
+ @import "./pages/my-teams/my-teams.page";
+ @import "./pages/teams/teams.page";
+ @import "./pages/tournaments/tournaments.page";
+ 
