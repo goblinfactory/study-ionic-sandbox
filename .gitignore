@@ -76,5 +76,7 @@ UserInterfaceState.xcuserstate
 ionic.config.json
 .io-config.json
 
+# NB! remember to manually include service worker in your project if you've moved it, otherwise it may (most likely) will be excluded by the filters below
+# although, gulp will probably tell you 
 **/*.js
 **/*.map
