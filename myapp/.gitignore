@@ -36,3 +36,6 @@ UserInterfaceState.xcuserstate
 # I will change this later to be overwritten during the appropriate build ops commands.
 ionic.config.json
 .io-config.json
+
+**/*.js
+**/*.map
