@@ -48,7 +48,7 @@ jspm_packages
 log.txt
 *.sublime-project
 *.sublime-workspace
-.vscode/
+
 npm-debug.log*
 
 .idea/
