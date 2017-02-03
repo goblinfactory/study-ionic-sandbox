@@ -2,6 +2,7 @@
   "files.exclude": {
     "**/app/*.js": true,
     "**/app/**/*.map": true,
-    "**/pages/**/*.map": true
+    "**/pages/**/*.map": true,
+    "**/pages/**/*.js": true
   }
 }
