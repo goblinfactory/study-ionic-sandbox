@@ -117,7 +117,9 @@ I appreciate that many of my `dislikes` might simply be due to my personal conte
 
 #### pausing
 
-https://app.pluralsight.com/player?course=ionic2-angular2-typescript-mobile-apps&author=steve-michelotti&name=ionic2-angular2-typescript-mobile-apps-m2&clip=6&mode=live
+Pausing at using the navigation stack
+
+* https://app.pluralsight.com/player?course=ionic2-angular2-typescript-mobile-apps&author=steve-michelotti&name=ionic2-angular2-typescript-mobile-apps-m3&clip=3&mode=live
  
  run apps with ionic view
  
