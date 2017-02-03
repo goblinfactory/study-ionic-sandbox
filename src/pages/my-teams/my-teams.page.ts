@@ -13,4 +13,8 @@ export class MyTeamsPage {
     console.log('ionViewDidLoad (pagename)Page');
   }
 
+  GoToTournaments() {
+    
+  }
+
 }
